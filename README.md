@@ -8,8 +8,23 @@ O programa permite o cadastro de ingredientes (por exemplo: milho, farelo de soj
 
 A arquitetura do sistema segue os princípios da POO, representando entidades do mundo real através de classes bem definidas. As relações entre essas classes (composição, herança e polimorfismo) tornam o sistema modular, reutilizável e fácil de expandir — por exemplo, permitindo adicionar novos tipos de animais ou métodos de cálculo de fórmulas.
 
-### Feito com
-* [![Java][Java]][Java-url]
+### Principais Funcionalidades:
+	•	Gestão de Ingredientes: cadastrar, editar, excluir e listar ingredientes com dados nutricionais e preços.
+	•	Gestão de Animais: definir tipos de animais e suas exigências nutricionais.
+	•	Geração de Fórmulas: calcular automaticamente a composição ideal da ração com base nos dados fornecidos.
+	•	Otimização de Custos: sugerir combinações de ingredientes que minimizem o custo total da ração.
+	•	Relatórios: gerar relatórios detalhados das fórmulas e custos.
+	•	Persistência de Dados: salvar e carregar informações com qualquer tecnologia de persistência.
+### Destaques de Programação Orientada a Objetos:
+	•	Encapsulamento: atributos privados acedidos por métodos públicos.
+	•	Herança
+	•	Polimorfismo.
+	•	Composição.
+### Tecnologias Utilizadas:
+	•	Linguagem: Java
+	•	Paradigma: Programação Orientada a Objetos (POO)
+	•	Bibliotecas: Java Collections Framework e JavaFX para interface gráfica.
+	•	Persistência: Qualquer tecnologia de persistência
 
 ## Começa aqui
 
