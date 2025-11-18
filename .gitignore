@@ -1,7 +1,20 @@
+# IntelliJ IDEA specific
+.idea/
+*.iml
+out/
+
+# Java build artifacts
+/bin/
+/build/
+/target/
+*.class
+
+# Temporary files
+*.tmp
+*.swp
+
 # vscode
 .vscode
-# Compiled class file
-*.class
 
 # Log file
 *.log
